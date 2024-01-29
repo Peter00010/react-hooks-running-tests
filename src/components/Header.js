@@ -6,3 +6,7 @@ function Header(props) {
           {/* uncomment the line below to pass the test */}
           hello from the Header!
         </h1>
+      )
+}
+
+export default Header;
